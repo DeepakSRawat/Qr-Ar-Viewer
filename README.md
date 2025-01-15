@@ -2,12 +2,24 @@
 
 A web application that combines QR code scanning with Augmented Reality (AR) capabilities. This project allows users to scan QR codes and view associated 3D models or AR content in real-time.
 
+## Live Demo
+
+Live Demo: [QR & AR Viewer](https://qr-ar-viewer.vercel.app)
+
 ## Features
 
 - QR code scanning using device camera
 - AR content viewing and interaction
 - Real-time 3D model rendering
 - Mobile-friendly interface
+
+## Screenshots
+
+![QR Code Scanning](./screenshots/qr-scanning.png)
+_QR Code Scanning Interface_
+
+![AR View](./screenshots/ar-view.png)
+_3D Model in AR View_
 
 ## Technologies
 
