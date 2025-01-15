@@ -15,11 +15,11 @@ Live Demo: [QR & AR Viewer](https://qr-ar-viewer.vercel.app)
 
 ## Screenshots
 
-![QR Code Scanning](./screenshots/qr-scanning.png)
-_QR Code Scanning Interface_
+<img src="./screenshots/qr-scanning.png" width="300" alt="QR Code Scanning">
+<p><em>QR Code Scanning Interface</em></p>
 
-![AR View](./screenshots/ar-view.png)
-_3D Model in AR View_
+<img src="./screenshots/ar-view.png" width="300" alt="AR View">
+<p><em>3D Model in AR View</em></p>
 
 ## Technologies
 
