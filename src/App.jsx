@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import ARViewer from "./components/ARViewer";
 import QrScanner from "./components/QRScanner";
 // import ConsoleDisplay from "./components/consoleDisplay";
@@ -37,7 +37,7 @@ const App = () => {
 
   return (
     <div className="flex flex-col justify-center items-center">
-      <div className="shadow-[#00000059_0px_5px_15px] w-52 h-72 m-6 p-2 *: rounded-lg">
+      <div className="shadow-[#00000059_0px_5px_15px] w-[80vw] h-[56vh] sm:w-[70vw] sm:h-[70vh] md:w-[60vw] md:h-[53vh] lg:w-[50vw] lg:h-[50vh] xl:w-[40vw] xl:h-[60vh] m-[2vw] p-[1vw] rounded-lg">
         {isCamOpen ? (
           isQrtrue ? (
             <QrScanner onSuccess={handleQRSuccess} camClose={handleCamera} />
