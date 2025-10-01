@@ -38,6 +38,11 @@ Live Demo: [QR & AR Viewer](https://qr-ar-viewer.vercel.app)
 ## Usage
 
 Simply point your device's camera at a compatible QR code to view the associated AR content.
+Here is the sample QR:
+<img width="356" height="346" alt="image" src="https://github.com/user-attachments/assets/0e060a8d-f417-4359-8870-8022b641b41a" />
+<img width="356" height="346" alt="image" src="https://github.com/user-attachments/assets/72a4c492-f72a-4883-984a-fd98c105d3f1" />
+
+
 
 ## Requirements
 
